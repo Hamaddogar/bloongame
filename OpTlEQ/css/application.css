@@ -1,0 +1,27 @@
+
+#btn-container img{
+
+    position: absolute;
+    top: 500px;
+    left: 670px;
+    cursor: pointer;
+}
+#btn-container img:hover{
+
+ opacity: 0.8;
+}
+#splash-screen {
+
+    width: 1280px;
+    margin: auto;
+}
+
+.hide{
+
+display: none;
+
+}
+.bloon{
+
+    width: 60px;
+}
